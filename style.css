@@ -50,7 +50,7 @@ img.icon {
 footer {
     background: #111;
     padding-top: 100px;
-    padding-bottom: 100px; 
+ 
 }
 .nav-list{
     padding: .2em 0;
@@ -92,4 +92,10 @@ a.nav-list:hover {
 
 header{
     background: #FFF9F4;
+}
+.copyright{
+    padding-top: 100px;
+}
+.copyright p{
+    color: #999;
 }
