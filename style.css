@@ -38,7 +38,7 @@ img.icon {
 }
 .card-border{
     border: none;
-    border-radius: 1em;
+    border-radius: 1em !important;
 }
 .card-footer-border{
     border-top: none;
